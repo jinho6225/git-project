@@ -28,3 +28,11 @@ git merge readme --no-ff # readme 브랜치의 내용을 가져와서 머지함,
 # LICENSE
 이 저장소는 WTFPL 라이선스에 의해 보호를 받습니다.
 
+## 8. 알아두면 좋을 팁
+- awesome-series
+- .gitconfig
+- 스스로 문제를 해결하는 법
+- 도움을 요청하는 법
+
+## 9. Thanks to..
+- [@jinho6225](https://github.com/jinho6225)
