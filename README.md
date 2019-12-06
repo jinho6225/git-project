@@ -24,3 +24,7 @@ git checkout -b readme # readme 라는 이름의 브랜치를 생성한 후, 생
 ```bash
 git merge readme --no-ff # readme 브랜치의 내용을 가져와서 머지함, fast-forward 기능 끄기
 ```
+
+# LICENSE
+이 저장소는 WTFPL 라이선스에 의해 보호를 받습니다.
+
